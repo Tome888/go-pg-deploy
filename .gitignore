@@ -1,0 +1,13 @@
+# Binaries
+main
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Secrets (DO NOT REMOVE THIS)
+.env
+
+# Go workspace
+go.work
